@@ -39,9 +39,3 @@ public class Test20_Greatest_number_amoung3
 }
 
 
-/* Output:
- * 
- * 			
- * 	50
- * 
- */
